@@ -1,0 +1,6 @@
+streamlit
+beautifulsoup4
+urlopen
+pandas
+geopy
+plotly-express
