@@ -1,2 +1,2 @@
-# Web_Scraping_Noticias
-Web scraping de Noticias del Siglo de Torreón y mapeo de las noticias 
+# Web Scraping Noticias 
+Web scraping de Noticias del Siglo de Torreón de la sección policiaca y mapeo de las noticias 
