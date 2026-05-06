@@ -1,0 +1,25 @@
+{
+    "page":1,
+    "results":[
+        {
+         "especie":"Crotalus basiliscus",
+         "toxina":"PLA2-A2",
+         "secuencia":"ATGATGCGATGT"
+        },
+        {
+         "especie":"Crotalus basiliscus",
+         "toxina":"PLA2-B2",
+         "secuencia":"ATGATGCGATGTATTTTTTTGTTT"
+        },
+        {
+         "especie":"Crotalus molossus",
+         "toxina":"PLA2-A1",
+         "secuencia":"ATGATGCGATGTCCCCGACGGGG"
+        },
+        {
+         "especie":"Crotalus molossus",
+         "toxina":"PLA2-k",
+         "secuencia":"ATGACCCCCTGTGTGTGTTGTTGCGATGT"
+        }
+    ]
+}
